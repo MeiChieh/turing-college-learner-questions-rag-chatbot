@@ -1,7 +1,6 @@
 ## Turing College Knowledge Bot
 
-A RAG-powered chatbot that helps Turing College learners answer questions about the learning platform using the content from internal confluence pages.
-
+Turing College Knowledge Bot is a RAG-powered chatbot that helps learners navigate the Turing College platform by answering questions using content scraped from internal Confluence pages. It combines a FastAPI backend with a Streamlit frontend to deliver real-time, context-aware responses using GPT models. The bot features a hybrid search strategy (dense + sparse retrieval), conversational memory, adjustable LLM parameters, and a simple chat interface to make platform support more interactive and accessible.
 
 ### Features
 
