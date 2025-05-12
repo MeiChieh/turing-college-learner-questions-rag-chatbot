@@ -1,6 +1,7 @@
 ## Turing College Knowledge Bot
 
-A RAG-powered chatbot that helps answer questions about Turing College using the content from TC confluence pages.
+A RAG-powered chatbot that helps Turing College learners answer questions about the learning platform using the content from internal confluence pages.
+
 
 ### Features
 
