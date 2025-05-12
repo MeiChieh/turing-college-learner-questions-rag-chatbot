@@ -12,6 +12,15 @@ A RAG-powered chatbot that helps answer questions about Turing College using the
 - 💾 Conversation memory with context window
 - 🔄 Chat reset functionality
 
+### Demo Video
+
+
+
+https://github.com/user-attachments/assets/9a20cbcd-cf38-43b6-b85e-9d9cb38879aa
+
+
+
+
 #### Setup
 
 1. Clone the repository
@@ -19,13 +28,6 @@ A RAG-powered chatbot that helps answer questions about Turing College using the
 
 ```bash
 pip install -r requirements.txt
-```
-
-3. Set up environment variables in `.env`:
-
-```env
-UPSTASH_TC_HYBRID_CHAT_TOKEN=your_token
-UPSTASH_TC_HYBRID_INDEX_ENDPOINT=your_endpoint
 ```
 
 ### Usage
